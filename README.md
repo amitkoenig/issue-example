@@ -1,2 +1,2 @@
 # issue-example
-related to demonstrate an issue
+related to demonstrate an issue typo
